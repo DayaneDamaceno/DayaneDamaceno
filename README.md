@@ -2,7 +2,7 @@
 
 🌱 Always looking to create and develop new projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-DayaneDamaceno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-almeida-7a47b6193/)](https://www.linkedin.com/in/dayane-almeida-7a47b6193/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dayane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-almeida-7a47b6193/)](https://www.linkedin.com/in/dayane-almeida-7a47b6193/)
 [![Medium Badge](https://img.shields.io/badge/-@dayane.damaceno04-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dayane.damaceno04)](https://medium.com/@dayane.damaceno04)
 
 #### ⚡ Technologies & Tools
@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
 ![TypeScript](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-E9EAEE?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
