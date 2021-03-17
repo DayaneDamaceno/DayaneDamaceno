@@ -1,8 +1,5 @@
 ### Hi, I'm Day ☀
 
-<!--
-**DayaneDamaceno/DayaneDamaceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🌱 Always looking to create and develop new projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-DayaneDamaceno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-almeida-7a47b6193/)](https://www.linkedin.com/in/dayane-almeida-7a47b6193/)
