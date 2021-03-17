@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-DayaneDamaceno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-almeida-7a47b6193/)](https://www.linkedin.com/in/dayane-almeida-7a47b6193/)
 [![Medium Badge](https://img.shields.io/badge/-@dayane.damaceno04-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dayane.damaceno04)](https://medium.com/@dayane.damaceno04)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DayaneDamaceno)
 
 #### ⚡ Technologies & Tools
 
